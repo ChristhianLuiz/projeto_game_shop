@@ -69,12 +69,10 @@ section p{
     margin-bottom: 8px;
 }
 
-#Store-Front {
-    margin-right: 32px;
+#Store-Front{
     cursor: pointer;
+    margin-right: 32px;
 }
-
-
 
 .brands-list img{
     height: 26px;
