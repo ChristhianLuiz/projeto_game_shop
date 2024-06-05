@@ -132,7 +132,7 @@ form button{
 
 form button:hover{
     background-color: #2a96e2;
-    transition: 1.5s;
+    transition: 0.1s;
 }
 
 input:focus, textarea:focus{
