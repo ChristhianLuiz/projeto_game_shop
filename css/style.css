@@ -136,7 +136,7 @@ form button{
 
 form button:hover{
     background-color: #2a96e2;
-    transition: 22.0s;
+    transition: 2.0s;
 }
 
 input:focus, textarea:focus{
@@ -147,6 +147,4 @@ footer{
     background-color: #112c78;
     color: #ecf0f1;
     padding: 16px 0;
-
-
 }
