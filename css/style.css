@@ -73,6 +73,10 @@ section p{
     margin-right: 32px;
 }
 
+#Store-Front:hover {
+    cursor: pointer;
+}
+
 .brands-list img{
     height: 26px;
 }
@@ -132,7 +136,7 @@ form button{
 
 form button:hover{
     background-color: #2a96e2;
-    transition: 5s;
+    transition: 22.0s;
 }
 
 input:focus, textarea:focus{
