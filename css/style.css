@@ -71,11 +71,10 @@ section p{
 
 #Store-Front {
     margin-right: 32px;
-}
-
-#Store-Front img:hover {
     cursor: pointer;
 }
+
+
 
 .brands-list img{
     height: 26px;
