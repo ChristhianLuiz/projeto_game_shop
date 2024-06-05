@@ -73,7 +73,7 @@ section p{
     margin-right: 32px;
 }
 
-#Store-Front:hover {
+#Store-Front img:hover {
     cursor: pointer;
 }
 
